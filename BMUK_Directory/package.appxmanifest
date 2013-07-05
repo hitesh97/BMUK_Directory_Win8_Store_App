@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App2" StartPage="default.html">
-      <VisualElements DisplayName="BMUK Direcgory Win 8" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="BMUK Direcgory Win 8" ForegroundText="light" BackgroundColor="#464646">
+      <VisualElements DisplayName="BMUK Directory Win 8" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="BMUK Directory Win 8" ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="images\splashscreen.png" />
       </VisualElements>
