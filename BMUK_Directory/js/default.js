@@ -34,6 +34,7 @@
     var myApp = angular.module('app', []);
 
     myApp.controller('MainCtrl', function ($scope) {
+
         $scope.greeting = 'Hello BMUK Directory!';
         $scope.messages = [];
         $scope.addMessage = function (m) {

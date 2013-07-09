@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "BMUK_Directory_WinJS", "BMUK_Directory\BMUK_Directory_WinJS.jsproj", "{7CF3CF8B-0CBB-4BC9-BC65-30BD579D4AC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMUK_API", "BMUK_API\BMUK_API.csproj", "{21BC0866-EF25-4C15-814D-247C0C8E4C14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,16 @@ Global
 		{7CF3CF8B-0CBB-4BC9-BC65-30BD579D4AC6}.Release|x86.ActiveCfg = Release|x86
 		{7CF3CF8B-0CBB-4BC9-BC65-30BD579D4AC6}.Release|x86.Build.0 = Release|x86
 		{7CF3CF8B-0CBB-4BC9-BC65-30BD579D4AC6}.Release|x86.Deploy.0 = Release|x86
+		{21BC0866-EF25-4C15-814D-247C0C8E4C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BC0866-EF25-4C15-814D-247C0C8E4C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BC0866-EF25-4C15-814D-247C0C8E4C14}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{21BC0866-EF25-4C15-814D-247C0C8E4C14}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{21BC0866-EF25-4C15-814D-247C0C8E4C14}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{21BC0866-EF25-4C15-814D-247C0C8E4C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BC0866-EF25-4C15-814D-247C0C8E4C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BC0866-EF25-4C15-814D-247C0C8E4C14}.Release|ARM.ActiveCfg = Release|Any CPU
+		{21BC0866-EF25-4C15-814D-247C0C8E4C14}.Release|x64.ActiveCfg = Release|Any CPU
+		{21BC0866-EF25-4C15-814D-247C0C8E4C14}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
