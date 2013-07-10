@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace BMUK_API.Models
 {
@@ -10,6 +7,6 @@ namespace BMUK_API.Models
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public DateTime DateAdded { get; set; }
+        public DateTime DateCreated { get; set; }
     }
 }
